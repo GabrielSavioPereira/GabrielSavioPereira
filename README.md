@@ -1,4 +1,6 @@
-### Oii Eu sou o Gabriel Savio Pereira, estudo programação e estou me especializando em:
+### Oii Eu sou o Gabriel Savio Pereira
+
+Algumas linguagens de programação que estudo
 <div style="display: inline_block"><br>
   <img align="center" alt="Savio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Savio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

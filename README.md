@@ -11,7 +11,12 @@ Algumas linguagens de programação que estudo
 
 </div>
 <br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielSavioPereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSavioPereira&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 <br>
+
+
 
 <div> 
   <a href="https://www.youtube.com/channel/UCuhTLDkHUFc-U67qJjWdbOQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

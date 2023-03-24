@@ -16,7 +16,7 @@ Algumas linguagens de programação que estudo
 </div>
 <br>
 <div>
-  <img height="160em" src="https://camo.githubusercontent.com/0fb06b43fc14b876b82ef4a4279024bd2d78df8b290814a9a2b4b7c4df78a65b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4761627269656c536176696f506572656972612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSavioPereira&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <br>

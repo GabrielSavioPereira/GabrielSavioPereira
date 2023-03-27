@@ -1,4 +1,4 @@
-### Olá, Eu sou o Gabriel Savio Pereira, sou um estudante de informática do terceiro ano do ensino médio
+### Olá, Eu sou o Gabriel Savio Pereira, sou um estudante do terceiro ano do ensino médio e faço curso técnico em informática
 
 Algumas linguagens de programação que estudo:
 <br>

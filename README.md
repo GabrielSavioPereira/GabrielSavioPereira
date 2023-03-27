@@ -1,6 +1,7 @@
-### Ola, Eu sou o Gabriel Savio Pereira, sou um estudante de informática do terceiro ano do ensino médio
+### Olá, Eu sou o Gabriel Savio Pereira, sou um estudante de informática do terceiro ano do ensino médio
 
-Algumas linguagens de programação que estudo
+Algumas linguagens de programação que estudo:
+<br>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Savio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Savio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

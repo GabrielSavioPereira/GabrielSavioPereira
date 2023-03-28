@@ -14,14 +14,15 @@
 
 </div>
 <br>
-</div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielSavioPereira=gotham)
+<div>
 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BernardoSsilva&theme=gotham)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielSavioPereira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<br>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BernardoSsilva}/count.svg" /></p> 
+  </div>
 <br>
 <br>
 

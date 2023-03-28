@@ -30,13 +30,14 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielSavioPereira&theme=gotham)
 
 <br>
+  <h4 align = "center"> Visitors Count</h4>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielSavioPereira}/count.svg" /></p> 
   </div>
 <br>
 <br>
 
-<h4> Visitors Count</h4>
+
 
 <div align="center"> 
   <a align="center" href="https://instagram.com/gabriel.savio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

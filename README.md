@@ -21,7 +21,7 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BernardoSsilva}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielSavioPereira}/count.svg" /></p> 
   </div>
 <br>
 <br>

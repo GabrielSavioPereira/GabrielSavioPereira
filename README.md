@@ -14,10 +14,14 @@
 
 </div>
 <br>
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielSavioPereira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSavioPereira&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielSavioPereira=gotham)
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielSavioPereira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 <br>
 <br>
 

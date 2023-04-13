@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Savio+Pereira;I'm+17+years+old;I+from+Brasil,+SC;Be+Welcome!+:%50ttps://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Savio+Pereira;I'm+17+years+old;I+from+Brasil,+SC;Be+Welcome!+:%50https://git.io/typing-svg)
 
 <br>
 

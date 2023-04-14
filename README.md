@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E39F&size=55&center=true&vCenter=true&width=100&lines=Ola!+Me+Chamo+Gabriel+Savio;Tenho+17+anos;Sou+de+Criciúma;Estudo+programação++no+Cedup;Curso+tecnico+em+informática;Welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E39F&size=55&center=true&vCenter=true&width=1000&lines=Ola!+Me+Chamo+Gabriel+Savio;Tenho+17+anos;Sou+de+Criciúma;Estudo+programação++no+Cedup;Curso+tecnico+em+informática;Welcome)](https://git.io/typing-svg)
 <br>
 
 <div align="center">  

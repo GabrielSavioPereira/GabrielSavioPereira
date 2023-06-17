@@ -25,7 +25,8 @@
 
 <div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielSavioPereira&theme=gotham)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BernardoSsilva&theme=rogue)](https://github.com/GabrielSavioPereira/github-readme-activity-graph)
+
 
 <br>
   <h4 align = "center"> Visitors Count</h4>

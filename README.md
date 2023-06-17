@@ -25,7 +25,7 @@
 
 <div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BernardoSsilva&theme=rogue)](https://github.com/GabrielSavioPereira/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielSavioPereira&theme=rogue)](https://github.com/GabrielSavioPereira/github-readme-activity-graph)
 
 
 <br>

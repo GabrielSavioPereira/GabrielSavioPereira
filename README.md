@@ -26,10 +26,6 @@
 </div>
 <br>
 
-<div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielSavioPereira&theme=rogue)](https://github.com/GabrielSavioPereira/github-readme-activity-graph)
-
 
 
 <div align="center"> 

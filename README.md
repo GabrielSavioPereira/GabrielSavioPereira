@@ -124,7 +124,7 @@ const gabriel = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/](https://www.linkedin.com/in/gabriel-savio-pereira-a42b6724b/">
+<a href="https://www.linkedin.com/in/gabriel-savio-pereira-a42b6724b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

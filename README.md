@@ -113,7 +113,7 @@ const gabriel = {
 <h2 align="center">📈 Minhas Contribuições</h2>
 
 <div align="center">
-  <a href="https://github.com/GabrielSavioPereira">
+  <a href="https://github.com/GabrielSavioPereira?tab=repositories">
     Ver meu histórico de contribuições no GitHub
   </a>
 </div>

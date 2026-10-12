@@ -136,7 +136,7 @@ const gabriel = {
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://saviodebug.github.io/">
+<a href="ainda em criação">
 <img src="https://img.shields.io/badge/Portfólio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 

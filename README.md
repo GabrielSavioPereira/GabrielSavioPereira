@@ -38,6 +38,7 @@ const gabriel = {
   objetivo: "Transformar ideias em soluções reais."
 };
 ```
+🎓 Formado em **Técnico de Informática pelo Cedup Abilio Paulo**.
 
 🎓 Estudante de **Engenharia da Computação na UNISATC**.
 

@@ -97,22 +97,25 @@ const gabriel = {
 
 ---
 
-## 🏆 Troféus do GitHub
+<h2 align="center">💻 Áreas de Interesse</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GabrielSavioPereira&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+![Full Stack](https://img.shields.io/badge/Full%20Stack-007ACC?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-0D1117?style=for-the-badge)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-007ACC?style=for-the-badge)
+![Automação](https://img.shields.io/badge/Automação-0D1117?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📈 Atividade no GitHub
+<h2 align="center">📈 Minhas Contribuições</h2>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielSavioPereira&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="100%" />
-
+  <a href="https://github.com/GabrielSavioPereira">
+    Ver meu histórico de contribuições no GitHub
+  </a>
 </div>
 
 ---

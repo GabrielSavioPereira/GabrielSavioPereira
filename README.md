@@ -95,18 +95,6 @@ const gabriel = {
 
 </div>
 
----
-
-<h2 align="center">💻 Áreas de Interesse</h2>
-
-<div align="center">
-
-![Full Stack](https://img.shields.io/badge/Full%20Stack-007ACC?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-0D1117?style=for-the-badge)
-![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-007ACC?style=for-the-badge)
-![Automação](https://img.shields.io/badge/Automação-0D1117?style=for-the-badge)
-
-</div>
 
 ---
 

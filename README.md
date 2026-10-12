@@ -9,9 +9,12 @@
 
 <br/>
 
-<a href="https://github.com/GabrielSavioPereira">
-  <img src="https://komarev.com/ghpvc/?username=GabrielSavioPereira&label=VISITAS+AO+PERFIL&color=0077B5&style=for-the-badge" alt="Visitas ao perfil"/>
-</a>
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=GabrielSavioPereira&color=0e75b6&style=flat-square"
+    alt="Visualizações do perfil"
+  />
+</div>
 
 </div>
 
